@@ -2,7 +2,15 @@
 
 **Mono — рабочее место фотографа на Mac.** Заказы, расписание, клиенты, деньги и заметки — в одной программе, без облака и подписки. Всё хранится только на вашем Mac.
 
-> Скачать: **[последняя версия](../../releases/latest)** → файл `Mono-….dmg`
+> Скачать: **[последняя версия](../../releases/latest)** → файл `Mono-….dmg` · Бесплатно
+
+![Обзор: ближайшие съёмки, деньги, дела, погода и золотой час](screenshots/01-obzor.jpg)
+
+## Для кого
+
+Для фотографа, который работает сам: портреты, love story, свадьбы, репортажи, предметка. Заявки приходят в WhatsApp, Telegram и Instagram, расписание держится в голове или в заметках, деньги — в Kaspi и в таблице. Mono собирает всё это в одном месте и считает за вас: кто внёс предоплату, сколько осталось получить, какие фото пора сдать, сколько вы заработали за месяц.
+
+Сделано фотографом для фотографов. Тенге и другие валюты, русский и английский интерфейс, адреса из 2ГИС и Google Maps.
 
 ## Что умеет
 
@@ -15,6 +23,13 @@
 - **Быстрые ответы.** Шаблоны сообщений клиенту с подстановкой данных заказа.
 - **Заметки.** Страницы с текстом, фото и видео, теги, карта связей между страницами, доска для референсов и планирования съёмки.
 - **Резервные копии.** Автоматические копии и копия вне Mac (iCloud Drive, внешний диск).
+
+<p>
+  <img src="screenshots/02-zayavka.jpg" alt="Заявка из переписки заполнилась сама" width="49%">
+  <img src="screenshots/03-itogi.jpg" alt="Итоги и цель на год" width="49%">
+</p>
+
+![Доска: мудборд и план съёмки](screenshots/04-doska.jpg)
 
 ## Установка
 
@@ -37,4 +52,4 @@
 
 ---
 
-**Mono** is a workspace for photographers on the Mac: bookings, schedule, clients, money and notes, all stored locally. Interface in Russian and English. Download the latest `.dmg` from [Releases](../../releases/latest).
+**Mono** is a free workspace for photographers on the Mac: bookings, schedule, clients, money and notes, all stored locally. Interface in Russian and English. Download the latest `.dmg` from [Releases](../../releases/latest).
